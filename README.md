@@ -1,6 +1,6 @@
 # Image-Search
 
-A Command Line toolkit to search an image in natural language. It uses [CLIP](https://github.com/openai/CLIP) to find the similar images as described in the search query.
+A python script to search an image in a folder by describing it in natural language. It uses [CLIP](https://github.com/openai/CLIP) to find the similar images as described in the search query.
 
 ## Installation
 
